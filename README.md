@@ -22,7 +22,7 @@ Travel applications are applications that users use to prepare their travel acti
 
 ## Branch
 
-In the application development process, the results of application development are stored outside the master branch. The following are the available branches:
+In the application development process, the results of application development are saved outside the main branch. The following are the available branches:
 - **main**: The first branch in application development.
 - **development/v1**: Development of home page and details place page.
 
