@@ -1,16 +1,14 @@
-# flutter_travel_ui
+# Flutter Travel UI
 
-A new Flutter project.
+This is the **development/v1** branch, developments that have been carried out include:
+1. Create a home page. Contains user name, list of popular travel places, travel place categories, and bottom navigation bar.
+2. Create a travel location detail page. Contains location photos, description, gallery photo list, further menu options, travel prices, and a button to order tickets.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+1. To see details of a travel location, you can press the travel location image on the home page.
+2. To move to another page, you can press the selection button at the bottom navigation bar. However, currently the only page that is ready is the homepage. Other pages are still under development.
 
-A few resources to get you started if this is your first Flutter project:
+## Preview UI Image:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v1/assets/preview_ui_images/home_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v1/assets/preview_ui_images/detail_place_page.png?raw=true" width="400" height="800"/> 
