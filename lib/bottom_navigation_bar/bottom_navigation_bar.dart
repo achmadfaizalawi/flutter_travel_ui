@@ -25,17 +25,23 @@ class _BottomNavigationState extends State<BottomNavigation> {
   Widget build(BuildContext context) {
     return Scaffold(
         bottomNavigationBar: Container(
+          padding: const EdgeInsets.symmetric(horizontal: 40),
           decoration: const BoxDecoration(
-              color: Colors.white,
-              boxShadow: [
-                BoxShadow(
-                  color: Color.fromRGBO(227, 242, 253, 1),
-                  blurRadius: 30,
-                )
-              ],
-              borderRadius: BorderRadius.vertical(top: Radius.circular(30))),
+            color: Colors.white,
+            boxShadow: [
+              BoxShadow(
+                color: Color.fromRGBO(227, 242, 253, 1),
+                blurRadius: 30,
+              )
+            ],
+            borderRadius: BorderRadius.vertical(
+              top: Radius.circular(30),
+            ),
+          ),
           child: ClipRRect(
-            borderRadius: const BorderRadius.vertical(top: Radius.circular(30)),
+            borderRadius: const BorderRadius.vertical(
+              top: Radius.circular(30),
+            ),
             child: NavigationBar(
                 elevation: 10,
                 height: 70,

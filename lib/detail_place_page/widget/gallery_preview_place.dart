@@ -19,11 +19,16 @@ class GalleryPreviewPlaces extends StatelessWidget {
         Container(
           margin: const EdgeInsets.only(right: 10),
           height: 60,
-          width: 96,
+          width: 90,
           decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(10),
-              image: DecorationImage(
-                  image: AssetImage(places.gallery[index]), fit: BoxFit.cover)),
+            borderRadius: BorderRadius.circular(10),
+            image: DecorationImage(
+              image: AssetImage(
+                places.gallery[index],
+              ),
+              fit: BoxFit.cover,
+            ),
+          ),
         ),
       ],
     );

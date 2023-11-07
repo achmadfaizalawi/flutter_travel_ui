@@ -33,9 +33,12 @@ class PopularPlace extends StatelessWidget {
             height: 260,
             width: 220,
             decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(20),
-                image: DecorationImage(
-                    image: AssetImage(places.images), fit: BoxFit.cover)),
+              borderRadius: BorderRadius.circular(20),
+              image: DecorationImage(
+                image: AssetImage(places.images),
+                fit: BoxFit.cover,
+              ),
+            ),
             child: Stack(
               children: [
                 const Padding(
@@ -46,8 +49,11 @@ class PopularPlace extends StatelessWidget {
                       CircleAvatar(
                         radius: 15,
                         backgroundColor: Colors.white,
-                        child:
-                            Icon(Icons.favorite, color: Colors.red, size: 18),
+                        child: Icon(
+                          Icons.favorite,
+                          color: Colors.red,
+                          size: 18,
+                        ),
                       )
                     ],
                   ),
@@ -60,8 +66,9 @@ class PopularPlace extends StatelessWidget {
                       children: [
                         Container(
                           decoration: BoxDecoration(
-                              color: Colors.white,
-                              borderRadius: BorderRadius.circular(20)),
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(20),
+                          ),
                           padding: const EdgeInsets.fromLTRB(20, 6, 20, 6),
                           margin: const EdgeInsets.fromLTRB(16, 16, 3, 16),
                           child: Text(places.name,
@@ -85,7 +92,9 @@ class PopularPlace extends StatelessWidget {
                                 child: Text(
                                   places.rating,
                                   style: const TextStyle(
-                                      fontSize: 15, fontFamily: "OpenSans"),
+                                    fontSize: 15,
+                                    fontFamily: "OpenSans",
+                                  ),
                                 ),
                               )
                             ],

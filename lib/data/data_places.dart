@@ -21,7 +21,7 @@ final List<Places> allData = [
       name: "Japan",
       rating: "4.7",
       about:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Contrary to popular belief, Lorem Ipsum is not simply random text.",
       images: "assets/images/IMG_1.jpg",
       gallery: [
         "assets/images/IMG_10.jpg",
@@ -34,7 +34,7 @@ final List<Places> allData = [
       name: "Himalayas",
       rating: "4.1",
       about:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Contrary to popular belief, Lorem Ipsum is not simply random text.",
       images: "assets/images/IMG_2.jpg",
       gallery: [
         "assets/images/IMG_6.jpg",

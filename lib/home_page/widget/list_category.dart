@@ -18,20 +18,27 @@ class CategoryPlace extends StatelessWidget {
       children: [
         Container(
           margin: const EdgeInsets.only(right: 10),
-          height: 90,
+          height: 80,
           width: 130,
           decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(10),
-              image: DecorationImage(
-                  image: AssetImage(category.images), fit: BoxFit.cover)),
+            borderRadius: BorderRadius.circular(10),
+            image: DecorationImage(
+              image: AssetImage(category.images),
+              fit: BoxFit.cover,
+            ),
+          ),
         ),
         Padding(
           padding: const EdgeInsets.all(8.0),
           child: Center(
-              child: Text(
-            category.name,
-            style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700, fontFamily: "OpenSans"),
-          )),
+            child: Text(
+              category.name,
+              style: const TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                  fontFamily: "Rubik"),
+            ),
+          ),
         )
       ],
     );
