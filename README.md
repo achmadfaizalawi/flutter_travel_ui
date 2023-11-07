@@ -13,7 +13,9 @@ This is the **development/v2** branch, developments that have been carried out i
 
 ## Reference
 
-In the UI slicing process I took design references from the [Dribbble](https://dribbble.com/shots/11054005-Travel-App) platform.
+In the UI slicing process I took design references from:
+1. Home page & detail place page: [Dribbble](https://dribbble.com/shots/18038495-Travel-App)
+2. Booking page: [Dribbble](https://dribbble.com/shots/11054005-Travel-App) platform.
 
 ## Preview UI Image
 
