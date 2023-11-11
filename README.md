@@ -25,6 +25,7 @@ Travel applications are applications that users use to prepare their travel acti
 In the application development process, the results of application development are saved outside the main branch. The following are the available branches:
 - **main**: The first branch in application development.
 - **development/v1**: Development of home page and details place page.
+- **development/v2**: Development of ticket booking page and optimization UI.
 
 ## Contributions
 We greatly appreciate contributions from the community. If you would like to contribute to this project, please open a new issue or submit a pull request.
