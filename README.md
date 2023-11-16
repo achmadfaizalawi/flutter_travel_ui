@@ -6,11 +6,6 @@ This is the **development/v2** branch, developments that have been carried out i
 3. Optimization of home page padding layout and place detail page from 40px to 30px.
 4. Changed the font family of some text on the home page and place details page.
 
-## Usage
-
-1. To enter the ticket booking menu, the user must click on the popular place image on the home page, then click the 'Book Now' button on the place detail page.
-2. To increment and decrement the booking page, users can press the '+' and '-' buttons alternately.
-
 ## Reference
 
 In the UI slicing process I took design references from:
@@ -19,6 +14,14 @@ In the UI slicing process I took design references from:
 
 ## Preview UI Image
 
-<img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/home_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/place_detail_page.png?raw=true" width="400" height="800"/> 
+<img src="" width="400" height="800"/> <img src="" width="400" height="800"/> 
 
-<img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/booking.png?raw=true" width="400" height="800"/>
+<img src="" width="400" height="800"/>
+
+| Home page    | Place Detail Page |
+|--------------|-------------------|
+| <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/home_page.png?raw=true" width="300"/> | <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/place_detail_page.png?raw=true" width="300"/>
+
+| Booking Page  |
+|---------------|
+| <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/booking.png?raw=true" width="300"/> |
