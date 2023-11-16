@@ -1,11 +1,6 @@
 # Flutter Travel UI
 
-Travel applications are applications that users use to prepare their travel activities, such as viewing recommendations for travel locations and purchasing tickets. This travel application was created to study the process of slicing UI from images into applications developed with Flutter. There is a reference design that I use for the slicing process.
-
-## Key feature
-
-1. View a list of popular places to travel.
-2. View the travel location description and gallery.
+This travel application was created to study the process of slicing UI from images into applications developed with Flutter. There is a reference design that I use for the slicing process.
 
 ## Installation
 
@@ -39,4 +34,4 @@ If you have any questions or would like to get in touch with me, you can send an
 ## Acknowledgments
 Thank you for using the Flutter Travel UI!
 
-Enjoy using your application, and we hope it's beneficial!
+Enjoy using my Flutter UI, and we hope it's beneficial!
