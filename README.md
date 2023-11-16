@@ -14,10 +14,6 @@ In the UI slicing process I took design references from:
 
 ## Preview UI Image
 
-<img src="" width="400" height="800"/> <img src="" width="400" height="800"/> 
-
-<img src="" width="400" height="800"/>
-
 | Home page    | Place Detail Page |
 |--------------|-------------------|
 | <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/home_page.png?raw=true" width="300"/> | <img src="https://github.com/achmadfaizalawi/flutter_travel_ui/blob/development/v2/assets/preview_ui_images/place_detail_page.png?raw=true" width="300"/>
